@@ -1,0 +1,9 @@
+.right{
+    @apply border-r border-blue-950;
+}
+.down{
+    @apply border-b border-blue-950;
+}
+/* .button{
+    @apply w-[180px] h-[180px];
+} */
